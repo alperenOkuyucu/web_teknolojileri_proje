@@ -1,0 +1,26 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.nav-link.login-button {
+    border: 1px solid #999c9f;
+    border-radius: 5px;
+    color: #999c9f;
+    padding: 5px 10px;
+}
+
+.slider-container {
+  background-color: #dcdcdc;
+  width: 100%;
+}
+
+#image-slider {
+  max-width: 50%;
+  margin: 0 auto;
+}
+
+.slider-img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
